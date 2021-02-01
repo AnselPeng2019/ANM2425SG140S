@@ -1,0 +1,9 @@
+.svn/
+*.si4project
+MDK-ARM/ANM*/
+MDK-ARM/debugTools/
+*uvgui*
+!*.uvoptx
+!*.uvprojx
+*.ffs_db
+
